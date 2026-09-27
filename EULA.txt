@@ -1,0 +1,106 @@
+ReaChat for REAPER - End User Licence Agreement
+Copyright (c) 2026 ReaChat. All rights reserved.
+Genuine releases and updates are signed with ReaChat's release key.
+
+This agreement is between you and the developer of ReaChat ("we", "us"). By installing, activating
+or using ReaChat (the "Software") you accept it. If you do not accept it, do not install or use the
+Software.
+
+1. LICENCE
+1.1 The Software is licensed, not sold. We grant you a personal, non-exclusive, non-transferable
+    licence to install and use the Software on the number of computers stated for your licence key
+    at purchase (its activation limit), on one of them at a time, for any purpose, including
+    commercial music, audio and software work. A computer may be released in Settings > Licence and
+    another one activated.
+1.2 A free trial lets you evaluate the Software fully for the number of days shown in it, before
+    you buy. After the trial, the AI features require a valid licence key.
+1.3 Updates we publish for the major version you bought (for example 1.x) are free. A new major
+    version may be sold separately. We are not obliged to publish updates.
+
+2. WHAT YOU MAKE IS YOURS
+2.1 Everything you create with the Software belongs to you: your projects, recordings, mixes,
+    arrangements, settings, and the scripts, text and other results it produces for you ("Your
+    Work"). We claim no rights in Your Work and place no limits on how you use, sell or share it.
+2.2 Scripts the Software writes for you may load the ReaChat UI kit file while ReaChat is installed.
+    You may share those scripts; the UI kit file itself is part of the Software (section 3).
+
+3. THE SOFTWARE ITSELF - WHAT YOU MAY NOT DO
+Except where the law expressly allows it despite this limitation, you may not, and may not let
+anyone else:
+  a) copy the Software, except installing it on your permitted computers and keeping a backup copy;
+  b) modify, adapt, translate or create derivative works of the Software or any part of it;
+  c) reverse engineer, decompile, disassemble, decrypt or otherwise try to obtain its source code,
+     internal logic, prompts or data formats;
+  d) distribute, publish, sell, resell, rent, lend, sublicense, share or make the Software or your
+     licence key available to others, including over a network;
+  e) remove, disable, bypass or interfere with its licence checks, activation, trial, update
+     signatures or any other protection;
+  f) remove or alter any copyright, trademark or other notices in it;
+  g) use the Software, or any part of its code, design, prompts or UI kit, to build or train a
+     product that competes with it.
+Any use not expressly granted in this agreement is reserved to us. Licence keys that are shared,
+resold or used against this agreement may be blocked.
+
+4. AI SERVICES
+4.1 The Software connects to AI services you choose (for example OpenAI, Anthropic or Google),
+    through your own accounts, plans or API keys. Your use of those services is governed by their
+    terms, and any fees they charge are yours.
+4.2 AI output can be wrong. You decide which changes the Software makes to your projects and
+    files; review them, and keep backups of your work. In its settings you can have the Software
+    ask before it runs code or changes anything.
+4.3 Flow mode and the Software's other automatic features (such as steering, retries, learning and
+    autosave) act on your behalf: they send requests to AI services and change your projects and
+    files over many steps without asking at each one. You choose whether to use them, and you are
+    responsible for their results and for the requests, fees and account limits they incur with AI
+    services. Automatic work can misread instructions, repeat, stop part way or malfunction.
+
+5. PRIVACY
+5.1 The Software sends your messages, the project information needed to answer them, and files you
+    attach, to the AI service you choose - directly from your computer. We do not receive them.
+5.2 For licensing, the Software sends our activation service your licence key, an anonymous
+    computer identifier and your computer's name, and the start date of your trial. Our reseller
+    receives the information needed to process your purchase. The Software checks for updates on
+    GitHub. It contains no advertising or usage tracking.
+5.3 Your API keys and sign-ins are kept by the Software on your computer, in your operating
+    system's secure storage.
+
+6. PURCHASE - ALL SALES FINAL
+ReaChat is sold through a reseller that is the merchant of record for your purchase (the store you
+bought it from); its buyer terms apply to the purchase. The free trial is there to evaluate the
+Software before buying: all sales are final and no refunds are given for a change of mind, except
+where the law or the reseller's terms require one. A licence key whose payment is refunded or
+charged back stops working.
+
+7. TERMINATION
+This licence ends automatically if you break it. When it ends you must stop using the Software and
+delete it. Sections 2, 3 and 7 to 10 continue to apply.
+
+8. NO WARRANTY
+The Software is provided "as is" and "as available", without warranties of any kind, express or
+implied, including merchantability, fitness for a particular purpose and non-infringement, to the
+extent the law allows. We do not warrant that it is error-free or uninterrupted, or that AI output
+is accurate.
+
+9. LIMITATION OF LIABILITY
+To the fullest extent the law allows, we are not liable for any damages or losses of any kind -
+direct, indirect, incidental, special or consequential, including loss of data, projects, profits
+or business - arising from the use of or inability to use the Software, including anything the AI
+or the Software's automatic features (such as Flow mode) do on your behalf, their malfunction, and
+fees or account limits incurred with AI services, and including when online
+services it depends on (licence activation and checks, AI providers, hosting, network and payment
+services) are unavailable, interrupted, suspended or discontinued, for any reason. Only where the
+law does not allow our liability to be excluded, it is limited to the amount you paid for your
+licence. Nothing in this agreement limits liability that cannot be limited by law, or your
+mandatory rights as a consumer.
+
+10. GENERAL
+This is the entire agreement about the Software. If a provision is found unenforceable, the rest
+remains in force. It is governed by the laws of the Republic of Serbia, without regard to
+conflict-of-law rules, and the competent courts of the Republic of Serbia have jurisdiction;
+mandatory consumer protections of your country of residence are not affected. Contact: Report a bug in ReaChat, or the store you bought it from.
+
+Trademarks: ReaChat is independent software, not affiliated with or endorsed by Cockos
+Incorporated, OpenAI, Anthropic or Google. REAPER is a trademark of Cockos Incorporated. OpenAI,
+ChatGPT and Codex are trademarks of OpenAI. Claude and Claude Code are trademarks of Anthropic.
+Gemini is a trademark of Google LLC. Third-party components are listed in THIRD_PARTY_NOTICES.txt
+under their own licences.
