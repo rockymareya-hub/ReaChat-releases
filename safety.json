@@ -1,0 +1,13 @@
+{
+ "product": "creaper",
+ "issued": 1795449530,
+ "hold": {
+  "claude_code": [
+   "2.1.330"
+  ],
+  "gemini_cli": [
+   "0.70.0"
+  ]
+ },
+ "urls": {}
+}
